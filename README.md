@@ -1,6 +1,6 @@
 # paldustransform
 
-A small, standalone [`pytket`](https://tket.quantinuum.com/api-docs/) implementation of the Paldus transform. It contains the transform and only the register-circuit helpers it needs; it does not depend on `qtmlib`.
+A small, standalone [`pytket`](https://tket.quantinuum.com/api-docs/) implementation of the Paldus transform. It contains the transform and only the register-circuit helpers it needs
 
 Requires Python 3.12 or newer and uses [`uv`](https://docs.astral.sh/uv/).
 
